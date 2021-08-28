@@ -1,5 +1,5 @@
 # IMDB-Data-Analysis:
-Given a list of 4000 movies, my task was to collect the data about these movies.
+Given a list of 4000 movies, my task was to collect the data about these movies and hence, analyse the data.
 
 ## Tasks Performed:
 Given a list of 4000 Hindi movies - Bollywood Movies Dataset.xlsx, you need to write a python script that can perform the below expected functionality
