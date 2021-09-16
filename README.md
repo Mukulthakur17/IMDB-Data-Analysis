@@ -1,4 +1,4 @@
-# IMDB-Data-Analysis:
+# IMDB-Data-Scraping-And-Analysis:
 Given a list of 4000 movies, my task was to collect the data about these movies and hence, analyse the data.
 
 ## Tasks Performed:
